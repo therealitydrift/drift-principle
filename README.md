@@ -20,4 +20,4 @@ The Drift Principle describes the core mechanism behind Reality Drift and relate
 
 Full framework library:
 
-[Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
+[Reality Drift Library on GitHub](https://github.com/therealitydrift/reality-drift-library)
